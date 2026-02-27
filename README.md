@@ -7,7 +7,7 @@
 
 ## Thông tin sinh viên
 
-- **Thành viên**: Nguyễn Phát Đạt B2504789 Dương Văn Thành Hiệu B2504794 Nguyễn Ngọc Diệp B2504786 Nguyễn Tuấn Anh B2504784 
+- **Thành viên**: Nguyễn Phát Đạt B2504789,Dương Văn Thành Hiệu B2504794,Nguyễn Ngọc Diệp B2504786,Nguyễn Tuấn Anh B2504784 
 - **Lớp**: DI2595A11  
 - **Giảng viên hướng dẫn**:ThS.Nguyễn Minh Trung  
 - **Thời gian hoàn thành**: Tháng 02/2026  
